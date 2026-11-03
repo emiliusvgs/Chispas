@@ -1,6 +1,5 @@
 # Chispas
-Inspirado en lo mejor de Meta Spark para 8thwall (Open Source)
-<img width="800" height="800" alt="Núcleo — fondo claro@1x" src="https://github.com/user-attachments/assets/21f5c975-cfe5-4fd9-867c-1c27c7ab149f" />
+<img width="400" height="400" alt="Chispas" src="https://github.com/user-attachments/assets/21f5c975-cfe5-4fd9-867c-1c27c7ab149f" />
 
 
 <h1 align="center">Chispas ✦</h1>
