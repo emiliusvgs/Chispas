@@ -1,6 +1,6 @@
-# Chispas
-<img width="400" height="400" alt="Chispas" src="https://github.com/user-attachments/assets/21f5c975-cfe5-4fd9-867c-1c27c7ab149f" />
-
+<p align="center">
+  <img width="400" height="400" alt="Chispas" src="https://github.com/user-attachments/assets/21f5c975-cfe5-4fd9-867c-1c27c7ab149f" />
+</p>
 
 <h1 align="center">Chispas ✦</h1>
 
