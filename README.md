@@ -88,17 +88,6 @@ Si vienes de Spark, esta tabla te ayuda a ubicarte:
 
 Todas las chispas se prueban en celulares de gama media, no solo en equipos de gama alta. La meta es que la experiencia se vea bien y fluida sin que el usuario tenga que tocar nada. Si en tu equipo va lento, abre un issue indicando modelo de celular y navegador.
 
-## Contribuir
-
-¡Las contribuciones son bienvenidas!
-
-1. Haz un fork del repositorio.
-2. Crea una rama: `git checkout -b mi-chispa`.
-3. Haz tus cambios y pruébalos en un celular real.
-4. Abre un pull request explicando qué agrega o corrige.
-
-También ayuda muchísimo reportar bugs, proponer chispas nuevas o compartir lo que construyes con ellas.
-
 ## Historia
 
 Chispas nació en 2026 para ayudar a quienes migraban sus efectos de Meta Spark a 8th Wall open source. Empezó con la segmentación, siguió con la oclusión, y la idea es que crezca hacia una colección de componentes de realidad aumentada para la web, más allá de su origen.
